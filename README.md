@@ -92,7 +92,7 @@ Ace Editor is used to provide a professional code editor interface with syntax h
 
 The project mainly contains three important files:
 
-*index.html
+* index.html
 Contains the main structure of the application and editor layout.
 
 * style.css
