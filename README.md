@@ -75,37 +75,62 @@ Ace Editor is used to provide a professional code editor interface with syntax h
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* 🏗️ How the System Works
-  # The user writes code in the HTML, CSS, and JavaScript editors.
-  # When the Run button is clicked, the program collects the code from all editors.
-  # The system creates a complete HTML document by combining the code.
-  # The combined code is displayed in the Preview iframe.
-  # The browser renders the output so the user can see the result instantly.
+
+
+🏗️ How the System Works
+
+* The user writes code in the HTML, CSS, and JavaScript editors.
+* When the Run button is clicked, the program collects the code from all editors.
+* The system creates a complete HTML document by combining the code.
+* The combined code is displayed in the Preview iframe.
+* The browser renders the output so the user can see the result instantly.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 📂 Project Files
+
 The project mainly contains three important files:
-# index.html
+
+*index.html
 Contains the main structure of the application and editor layout.
-# style.css
+
+* style.css
 Contains all the styles used for the design and layout of the website.
-# script.js
+
+* script.js
 Handles the editor functionality, running code, saving files, loading files, and preview generation.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 🚀 Advantages of the Project
-No installation required
-Works completely inside the browser
-Beginner-friendly interface
-Useful for learning web development
-Provides instant code output
+
+* No installation required
+* Works completely inside the browser
+* Beginner-friendly interface
+* Useful for learning web development
+* Provides instant code output
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 🔮 Future Improvements
-In future versions, the project can be improved by adding:
-Support for other programming languages like Python, Java, and C++
-Cloud-based project storage
-AI-based code suggestions
-Code sharing feature
-Dark and light theme options
+
+* In future versions, the project can be improved by adding:
+* Support for other programming languages like Python, Java, and C++
+* Cloud-based project storage
+* AI-based code suggestions
+* Code sharing feature
+* Dark and light theme options
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 👩‍💻 Author
-Divya Tadi
-B.Tech – Artificial Intelligence and Machine Learning
-Pragati Engineering College
+* Divya Tadi
+* B.Tech – Artificial Intelligence and Machine Learning
+* Pragati Engineering College
 
 
 
