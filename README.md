@@ -15,15 +15,19 @@ The objectives of this project are:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ⚙️ Technologies Used
+
 This project is developed using the following technologies:
-HTML5
+
+* HTML5
 Used to design the structure of the web page.
-CSS3
+* CSS3
 Used to create the layout, styling, colors, and responsive design.
-JavaScript
+* JavaScript
 Used to implement the functionality of the editor, code execution, and user interactions.
-Ace Editor Library
+* Ace Editor Library
 Ace Editor is used to provide a professional code editor interface with syntax highlighting and better coding experience.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧩 Main Features
 1️⃣ Multiple Code Editors
 The application provides three separate editors:
