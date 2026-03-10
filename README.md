@@ -1,13 +1,17 @@
 💻 Web Online Compiler – Live Code Editor
+
 📌 Project Description
 The Web Online Compiler is a browser-based application that allows users to write, edit, and run HTML, CSS, and JavaScript code directly in the browser. This project provides a simple coding environment where users can test their web development code and instantly see the output in a live preview window.The main goal of this project is to help beginners practice web development without installing any software. Everything runs directly inside the browser.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🎯 Objectives of the Project
 The objectives of this project are:
-To provide a simple online coding environment
-To allow users to write and test web code easily
-To display live output instantly
-To help students learn HTML, CSS, and JavaScript faster
+* To provide a simple online coding environment
+* To allow users to write and test web code easily
+* To display live output instantly
+* To help students learn HTML, CSS, and JavaScript faster
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ⚙️ Technologies Used
 This project is developed using the following technologies:
 HTML5
